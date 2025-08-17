@@ -1,2 +1,2 @@
 # data-analysis-
-Projects made during learning data analysis 
+Projects made during data analysis learning 

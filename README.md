@@ -1,2 +1,3 @@
-# data-analysis-
-Projects made during data analysis learning 
+#translation-agency-dta-analisys
+Projext made during data analisys learning.
+Translation Agency data analisys. 

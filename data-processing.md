@@ -18,7 +18,7 @@ Steps:
 1. Downloading both files  and saveing them to the local machine. 
 2. Open both files in Excel useing PowerQuery. 
 3. Transform the data (eg.change column types, delete errors and empty rows )
-4 Save both files to the .XLSX format
+4. Save both files to the .XLSX format
 
 ### Creating Pivot Tables in Excel 
 

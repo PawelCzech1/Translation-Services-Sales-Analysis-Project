@@ -1,6 +1,6 @@
 # Analiza sprzedażowa fikcyjnego Biura tłumaczeń
 versja: 1.1.0.
-
+Dostępne języki: English | [Polish]
 
 Projekt pokazuje jak przy pomocy narzędzi takich jak SQL i Power BI oraz Power Query przeprowadziłem analizę kondycji fikcyjnego biura tłumaczeń. 
 
@@ -24,9 +24,15 @@ Jak zmienia  się udział usług w czasie? (czy rośnie popyt na tłumaczenia sp
 
 Narzędzia: Power Query, SQL, Power BI
 
+##  Podgląd raportu
 
-## Kluczowe wnioski / wizualizacje 
+Poniżej znajdują się dwa główne zrzuty ekranu prezentujące projekt:
 
+### 1. Dashboard – widok główny
+![Dashboard Power BI](assets/dashboard_main.png)
+
+### 2. Opis projektu w raporcie
+![Opis projektu](assets/dashboard_overview.png)
 
 
 
@@ -34,6 +40,7 @@ Narzędzia: Power Query, SQL, Power BI
 
 | Wersja | Data | Opis  zmian
 | :----- | :--- | :---|
+| v.1.1.1 | 15.03.2026 | Implementacja dashboardu Power BI 
 | v.1.1.0 | 23.02.2026 | Pełna refaktoryzacja. Poprawa logiki marży, optymalizacja zapytań SQL oraz poprawa warstwy wizualnej i dokumentacji. |
 |v.1.0.0 | 21.10.2025 | Wersja pierwotna (Wstępny szkic analizy) |  
 
